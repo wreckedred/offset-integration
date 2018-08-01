@@ -1,0 +1,5 @@
+integration_name: com.myorg.time-offset
+
+instances:
+  - name: Apex
+    command: time-offset

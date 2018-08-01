@@ -1,0 +1,11 @@
+name: com.myorg.time-offset
+protocol_version: 1
+description: Calculate NTP offset on host integration
+os: linux
+
+commands:
+  time-offset:
+    command:
+      - ./bin/time-offset.sh
+    interval: 30
+    prefix: integration/myorg/time-offset

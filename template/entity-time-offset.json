@@ -1,0 +1,11 @@
+		{
+			"metrics": [
+				{
+					"event_type": "NtpOffset",
+					"ntp_offset": NTPOFFSET
+				}
+			]
+			
+
+
+		}			
